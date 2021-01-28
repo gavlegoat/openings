@@ -10,5 +10,7 @@ often want to play c5 which will now take an extra tempo.
 
 Move                | Total games | White wins | Draw | Black wins
 --------------------|-------------|------------|------|-----------
+[d4](d4/index.md)   | 64,984      | 32%        | 44%  | 23%
+[Nc3](Nc3/index.md) | 5,552       | 33%        | 41%  | 27%
 
-Todo: d4, Nc3, c4, d3, Nf3
+Todo: c4, d3, Nf3
