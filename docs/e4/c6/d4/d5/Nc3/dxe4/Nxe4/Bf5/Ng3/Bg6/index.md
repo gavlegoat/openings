@@ -2,10 +2,12 @@
 
 ![Position](position.png)
 
-White simply defends their d4 pawn.
+Bg6 simply retreats the bishop while keeping it on an active diagonal.
 
 ## Continuations
 
 Move                  | Total games | White wins | Draw | Black wins
 ----------------------|-------------|------------|------|-----------
-[dxe4](dxe4/index.md) | 16,360      | 28%        | 50%  | 22%
+[h4](h4/index.md)     | 9.494       | 27%        | 52%  | 21%
+
+Todo: Nf3, Bc4, Nh3, N1e2

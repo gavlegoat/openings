@@ -2,10 +2,12 @@
 
 ![Position](position.png)
 
-White simply defends their d4 pawn.
+Black accepts the bishop trade because there isn't really an alternative.
 
 ## Continuations
 
 Move                  | Total games | White wins | Draw | Black wins
 ----------------------|-------------|------------|------|-----------
-[dxe4](dxe4/index.md) | 16,360      | 28%        | 50%  | 22%
+Qxd3 | 7,888       | 26%        | 55%  | 19%
+
+Todo: Qxd3

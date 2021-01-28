@@ -2,10 +2,12 @@
 
 ![Position](position.png)
 
-White simply defends their d4 pawn.
+White develops a knight in the most natural way.
+
+In this position I play Nd7.
 
 ## Continuations
 
 Move                  | Total games | White wins | Draw | Black wins
 ----------------------|-------------|------------|------|-----------
-[dxe4](dxe4/index.md) | 16,360      | 28%        | 50%  | 22%
+[Nd7](Nd7/index.md)   | 6,797       | 26%        | 55%  | 19%

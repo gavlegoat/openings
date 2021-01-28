@@ -1,9 +1,8 @@
-# B12: Caro-Kann: Advance Variation
+# B15: Caro-Kann Defense
 
 ![Position](position.png)
 
-White avoids exchanging their strong center by pushing the e pawn out of
-danger.
+White simply recaptures the pawn.
 
 In this position I play Bf5.
 
@@ -11,4 +10,4 @@ In this position I play Bf5.
 
 Move                  | Total games | White wins | Draw | Black wins
 ----------------------|-------------|------------|------|-----------
-[Bf5](Bf5/index.md)   | 17,424      | 36%        | 41%  | 23%
+[Bf5](Bf5/index.md)   | 15,209      | 26%        | 52%  | 22%

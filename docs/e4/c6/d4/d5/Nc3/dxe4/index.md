@@ -2,10 +2,11 @@
 
 ![Position](position.png)
 
-White simply defends their d4 pawn.
+We trade off a central pawn in order to disrupt White's strong pawn center.
 
 ## Continuations
 
 Move                  | Total games | White wins | Draw | Black wins
 ----------------------|-------------|------------|------|-----------
-[dxe4](dxe4/index.md) | 16,360      | 28%        | 50%  | 22%
+
+Todo: Nxe4

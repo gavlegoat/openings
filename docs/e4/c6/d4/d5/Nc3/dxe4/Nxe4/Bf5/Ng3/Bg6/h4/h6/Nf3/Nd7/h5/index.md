@@ -2,10 +2,13 @@
 
 ![Position](position.png)
 
-White simply defends their d4 pawn.
+White continues to gain space on the kingside while gaining a tempo by
+attacking the bishop.
+
+In this position I play Bh7.
 
 ## Continuations
 
 Move                  | Total games | White wins | Draw | Black wins
 ----------------------|-------------|------------|------|-----------
-[dxe4](dxe4/index.md) | 16,360      | 28%        | 50%  | 22%
+[Bh7](Bh7/index.md)   | 7,653       | 26%        | 55%  | 19%

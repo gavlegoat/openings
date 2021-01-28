@@ -2,10 +2,14 @@
 
 ![Position](position.png)
 
-White simply defends their d4 pawn.
+The white knight is under attack, so it retreats while gaining a tempo by
+attacking the bishop.
+
+I play Bg6 in this position.
 
 ## Continuations
 
 Move                  | Total games | White wins | Draw | Black wins
 ----------------------|-------------|------------|------|-----------
-[dxe4](dxe4/index.md) | 16,360      | 28%        | 50%  | 22%
+[Bg6](Bg6/index.md)   | 14,428      | 26%        | 52%  | 22%
+

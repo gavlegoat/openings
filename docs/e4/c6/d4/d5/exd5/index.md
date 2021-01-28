@@ -11,5 +11,4 @@ In this position I play cxd5.
 
 Move                  | Total games | White wins | Draw | Black wins
 ----------------------|-------------|------------|------|-----------
-
-Todo: cxd5
+[cxd5](cxd5/index.md) | 13,232      | 29%        | 46%  | 25%

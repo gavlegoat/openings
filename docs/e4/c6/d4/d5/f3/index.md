@@ -16,5 +16,4 @@ lines after 3... dxe4  4. Nxe4.
 
 Move                  | Total games | White wins | Draw | Black wins
 ----------------------|-------------|------------|------|-----------
-
-Todo: e6
+[e6](e6/index.md)     | 805         | 35%        | 33%  | 32%

@@ -2,10 +2,12 @@
 
 ![Position](position.png)
 
-White simply defends their d4 pawn.
+This move just gives some space to the bishop.
 
 ## Continuations
 
 Move                  | Total games | White wins | Draw | Black wins
 ----------------------|-------------|------------|------|-----------
-[dxe4](dxe4/index.md) | 16,360      | 28%        | 50%  | 22%
+[Nf3](Nf3/index.md)   | 8,358       | 26%        | 53%  | 21%
+
+Todo: h5, Nh3, f4
