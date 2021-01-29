@@ -10,6 +10,6 @@ positions.
 
 Move                                                         | Total games | White wins | Draw | Black wins
 -------------------------------------------------------------|-------------|------------|------|-----------
-[h5](r2qkbnr-pp1nppp1-2p3bp-7P-3P4-5NN1-PPP2PP1-R1BQKBNR.md) | 7,654       | 26%        | 55%  | 19%
+[h5](r2qkbnr-pp1nppp1-2p3bp-7P-3P4-5NN1-PPP2PP1-R1BQKB1R.md) | 7,654       | 26%        | 55%  | 19%
 
 Todo: Bd3

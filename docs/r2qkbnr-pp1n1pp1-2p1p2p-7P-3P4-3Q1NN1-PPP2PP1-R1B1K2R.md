@@ -1,6 +1,6 @@
 # B19: Caro-Kann, Classical Variation
 
-![Position](https://chessboardimage.com/r2qkbnr/pp1n1pp1/2p1p2p/7P/3P4/3Q1NN1/PPP2PP1/R1B1K1NR.png)
+![Position](https://chessboardimage.com/r2qkbnr/pp1n1pp1/2p1p2p/7P/3P4/3Q1NN1/PPP2PP1/R1B1K2R.png)
 
 Now e6 is just a normal developing move, letting the bishop out and clamping
 down on the d5 square.
