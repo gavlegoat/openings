@@ -2,7 +2,7 @@
 
 ![Position](https://chessboardimage.com/rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR.png)
 
-White simply defends their d4 pawn.
+White simply defends their e4 pawn.
 
 ## Continuations
 

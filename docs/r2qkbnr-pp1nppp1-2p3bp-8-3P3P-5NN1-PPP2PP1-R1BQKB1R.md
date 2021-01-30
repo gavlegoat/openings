@@ -8,8 +8,9 @@ positions.
 
 ## Continuations
 
-Move                                                         | Total games | White wins | Draw | Black wins
--------------------------------------------------------------|-------------|------------|------|-----------
-[h5](r2qkbnr-pp1nppp1-2p3bp-7P-3P4-5NN1-PPP2PP1-R1BQKB1R.md) | 7,654       | 26%        | 55%  | 19%
+Move                                                           | Total games | White wins | Draw | Black wins
+---------------------------------------------------------------|-------------|------------|------|-----------
+[h5](r2qkbnr-pp1nppp1-2p3bp-7P-3P4-5NN1-PPP2PP1-R1BQKB1R.md)   | 7,654       | 26%        | 55%  | 19%
 
-Todo: Bd3
+Sometimes White will play Bd3 here. The lines are very similar to those that
+come up after h5, except white is slightly less weak on the kingside.
